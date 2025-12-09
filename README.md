@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, my name is Glen Ouma Odongi.
+I’m currently learning machine learning and llm and you can check out my projects. 
+You can reach me via my email: odongiglen@gmail.com or check out my linkedin profile: https://www.linkedin.com/in/glen-odongi-89a8b5375
+
+
 
 <!--
 **odongi/odongi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 HE/HIM
 - ⚡ Fun fact: ...
--->
