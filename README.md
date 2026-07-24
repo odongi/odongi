@@ -1,5 +1,5 @@
 ## Hi there, my name is Glen Ouma Odongi.
-I’m currently learning machine learning and llm and you can check out my projects. 
+I’m currently learning machine learning and llm and you can check out my projects which I have put under "Oganizations". 
 You can reach me via my email: odongiglen@gmail.com or check out my linkedin profile: https://www.linkedin.com/in/glen-odongi-89a8b5375
 
 
